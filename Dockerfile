@@ -1,6 +1,6 @@
 FROM alpine:3.10.3
 
-MAINTAINER https://github.com/zhangliqiang/fabric8-java-alpine-openjdk8-jre
+MAINTAINER https://github.com/godguhguh/fabric8-java-alpine-openjdk8-jre
 
 USER root
 
